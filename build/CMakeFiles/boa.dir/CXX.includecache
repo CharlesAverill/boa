@@ -34,19 +34,19 @@ Python3Parser.h
 antlr4-runtime.h
 -
 
-/home/charlesaverill/CLionProjects/boa-new/src/main.cpp
+/home/charlesaverill/CLionProjects/boa/src/main.cpp
 fstream
 -
 config/config.h
-/home/charlesaverill/CLionProjects/boa-new/src/config/config.h
+/home/charlesaverill/CLionProjects/boa/src/config/config.h
 antlr4-runtime.h
 -
 grammar/Python3Lexer.h
-/home/charlesaverill/CLionProjects/boa-new/src/grammar/Python3Lexer.h
+/home/charlesaverill/CLionProjects/boa/src/grammar/Python3Lexer.h
 grammar/Python3Parser.h
-/home/charlesaverill/CLionProjects/boa-new/src/grammar/Python3Parser.h
+/home/charlesaverill/CLionProjects/boa/src/grammar/Python3Parser.h
 grammar/Python3BaseListener.h
-/home/charlesaverill/CLionProjects/boa-new/src/grammar/Python3BaseListener.h
+/home/charlesaverill/CLionProjects/boa/src/grammar/Python3BaseListener.h
 
 locals/antlr4cpp/include/antlr4-runtime/ANTLRErrorListener.h
 RecognitionException.h

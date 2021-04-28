@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles/antlr4cpp"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/CMakeFiles/antlr4cpp"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles/antlr4cpp.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/CMakeFiles/antlr4cpp.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles/antlr4cpp-complete.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/CMakeFiles/antlr4cpp-complete.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-update.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-update.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule"
 		},
 		{
-			"file" : "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule"
+			"file" : "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule"
 		}
 	],
 	"target" : 

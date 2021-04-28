@@ -1,11 +1,11 @@
 
 cmake_minimum_required(VERSION 3.13)
 
-set(command "/home/charlesaverill/anaconda3/bin/cmake;-DCMAKE_BUILD_TYPE=Release;-DANTLR4CPP_JAR_LOCATION=/home/charlesaverill/CLionProjects/boa-new/lib/antlr4-4.5.4-SNAPSHOT.jar;-DBUILD_SHARED_LIBS=ON;-DBUILD_TESTS=OFF;-DCMAKE_INSTALL_PREFIX:PATH=/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp;-DCMAKE_SOURCE_DIR:PATH=/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp;/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp")
+set(command "/home/charlesaverill/anaconda3/bin/cmake;-DCMAKE_BUILD_TYPE=Release;-DANTLR4CPP_JAR_LOCATION=/home/charlesaverill/CLionProjects/boa/lib/antlr4-4.5.4-SNAPSHOT.jar;-DBUILD_SHARED_LIBS=ON;-DBUILD_TESTS=OFF;-DCMAKE_INSTALL_PREFIX:PATH=/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp;-DCMAKE_SOURCE_DIR:PATH=/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp;/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp")
 set(log_merged "")
 set(log_output_on_failure "")
-set(stdout_log "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-out.log")
-set(stderr_log "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-err.log")
+set(stdout_log "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-out.log")
+set(stderr_log "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-err.log")
 execute_process(
   COMMAND ${command}
   RESULT_VARIABLE result
@@ -31,7 +31,7 @@ if(result)
   if (${log_merged})
     set(msg "${msg}\nSee also\n  ${stderr_log}")
   else()
-    set(msg "${msg}\nSee also\n  /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-*.log")
+    set(msg "${msg}\nSee also\n  /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-*.log")
   endif()
   if (${log_output_on_failure})
     message(SEND_ERROR "${msg}")
@@ -49,6 +49,6 @@ if(result)
     message(FATAL_ERROR "${msg}")
   endif()
 else()
-  set(msg "antlr4cpp configure command succeeded.  See also /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-*.log")
+  set(msg "antlr4cpp configure command succeeded.  See also /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure-*.log")
   message(STATUS "${msg}")
 endif()

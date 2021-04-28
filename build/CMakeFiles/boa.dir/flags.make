@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime/misc -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime/atn -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime/dfa -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime/tree -I/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/include/antlr4-runtime/support -I/home/charlesaverill/CLionProjects/boa-new 
+CXX_INCLUDES = -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime/misc -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime/atn -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime/dfa -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime/tree -I/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/include/antlr4-runtime/support -I/home/charlesaverill/CLionProjects/boa 
 

@@ -1,15 +1,290 @@
-make[3]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[4]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[3]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[4]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+Scanning dependencies of target make_lib_output_dir
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
 [  0%] Built target make_lib_output_dir
-make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-[ 73%] Built target antlr4_shared
-[100%] Built target antlr4_static
-make[4]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
-make[3]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+Scanning dependencies of target antlr4_static
+Scanning dependencies of target antlr4_shared
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+[  0%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRFileStream.cpp.o
+[  0%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ANTLRFileStream.cpp.o
+[  1%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ANTLRInputStream.cpp.o
+[  1%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ANTLRInputStream.cpp.o
+[  1%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/BailErrorStrategy.cpp.o
+[  1%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/BaseErrorListener.cpp.o
+[  2%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/BailErrorStrategy.cpp.o
+[  2%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/BufferedTokenStream.cpp.o
+[  3%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/CharStream.cpp.o
+[  3%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/CommonToken.cpp.o
+[  3%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/BaseErrorListener.cpp.o
+[  3%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/BufferedTokenStream.cpp.o
+[  3%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/CommonTokenFactory.cpp.o
+[  4%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/CharStream.cpp.o
+[  5%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/CommonTokenStream.cpp.o
+[  5%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ConsoleErrorListener.cpp.o
+[  6%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/DefaultErrorStrategy.cpp.o
+[  6%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/CommonToken.cpp.o
+[  6%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/DiagnosticErrorListener.cpp.o
+[  6%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/CommonTokenFactory.cpp.o
+[  6%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/Exceptions.cpp.o
+[  7%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/FailedPredicateException.cpp.o
+[  7%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/InputMismatchException.cpp.o
+[  8%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/CommonTokenStream.cpp.o
+[  8%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ConsoleErrorListener.cpp.o
+[  9%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/DefaultErrorStrategy.cpp.o
+[  9%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/IntStream.cpp.o
+[ 10%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/InterpreterRuleContext.cpp.o
+[ 10%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/Lexer.cpp.o
+[ 11%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/LexerInterpreter.cpp.o
+[ 11%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/DiagnosticErrorListener.cpp.o
+[ 11%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/LexerNoViableAltException.cpp.o
+[ 11%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/Exceptions.cpp.o
+[ 11%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ListTokenSource.cpp.o
+[ 12%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/NoViableAltException.cpp.o
+[ 13%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/FailedPredicateException.cpp.o
+[ 13%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/Parser.cpp.o
+[ 13%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ParserInterpreter.cpp.o
+[ 14%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ParserRuleContext.cpp.o
+[ 14%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/InputMismatchException.cpp.o
+[ 14%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/ProxyErrorListener.cpp.o
+[ 14%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/IntStream.cpp.o
+[ 15%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/RecognitionException.cpp.o
+[ 16%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/InterpreterRuleContext.cpp.o
+[ 16%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/Lexer.cpp.o
+[ 17%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/LexerInterpreter.cpp.o
+[ 17%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/Recognizer.cpp.o
+[ 17%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/RuleContext.cpp.o
+[ 18%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/RuleContextWithAltNum.cpp.o
+[ 18%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/LexerNoViableAltException.cpp.o
+[ 18%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/RuntimeMetaData.cpp.o
+[ 18%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/TokenStream.cpp.o
+[ 19%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/TokenStreamRewriter.cpp.o
+[ 19%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ListTokenSource.cpp.o
+[ 19%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/UnbufferedCharStream.cpp.o
+[ 20%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/UnbufferedTokenStream.cpp.o
+[ 21%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/NoViableAltException.cpp.o
+[ 21%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/Parser.cpp.o
+[ 21%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/Vocabulary.cpp.o
+[ 21%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATN.cpp.o
+[ 21%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ParserInterpreter.cpp.o
+[ 22%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ParserRuleContext.cpp.o
+[ 23%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNConfig.cpp.o
+[ 23%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNConfigSet.cpp.o
+[ 23%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNDeserializationOptions.cpp.o
+[ 23%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/ProxyErrorListener.cpp.o
+[ 24%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNDeserializer.cpp.o
+[ 24%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNSerializer.cpp.o
+[ 25%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/RecognitionException.cpp.o
+[ 26%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNSimulator.cpp.o
+[ 26%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/Recognizer.cpp.o
+[ 26%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/RuleContext.cpp.o
+[ 26%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ATNState.cpp.o
+[ 26%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/AbstractPredicateTransition.cpp.o
+[ 27%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/RuleContextWithAltNum.cpp.o
+[ 28%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ActionTransition.cpp.o
+[ 28%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/RuntimeMetaData.cpp.o
+[ 28%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/AmbiguityInfo.cpp.o
+[ 28%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ArrayPredictionContext.cpp.o
+[ 29%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/AtomTransition.cpp.o
+[ 29%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/BasicBlockStartState.cpp.o
+[ 29%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/TokenStream.cpp.o
+[ 30%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/TokenStreamRewriter.cpp.o
+[ 31%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/BasicState.cpp.o
+[ 31%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/BlockEndState.cpp.o
+[ 31%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ContextSensitivityInfo.cpp.o
+[ 32%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionEventInfo.cpp.o
+[ 32%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionInfo.cpp.o
+[ 32%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/DecisionState.cpp.o
+[ 33%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/EmptyPredictionContext.cpp.o
+[ 33%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/UnbufferedCharStream.cpp.o
+[ 33%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/EpsilonTransition.cpp.o
+[ 34%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ErrorInfo.cpp.o
+[ 34%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LL1Analyzer.cpp.o
+[ 34%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerATNConfig.cpp.o
+[ 35%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerATNSimulator.cpp.o
+[ 35%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerActionExecutor.cpp.o
+[ 35%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerChannelAction.cpp.o
+[ 36%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerCustomAction.cpp.o
+[ 37%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/UnbufferedTokenStream.cpp.o
+[ 37%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/Vocabulary.cpp.o
+[ 37%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerIndexedCustomAction.cpp.o
+[ 38%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerModeAction.cpp.o
+[ 38%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerMoreAction.cpp.o
+[ 38%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerPopModeAction.cpp.o
+[ 39%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerPushModeAction.cpp.o
+[ 39%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerSkipAction.cpp.o
+[ 39%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATN.cpp.o
+[ 40%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNConfig.cpp.o
+[ 40%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LexerTypeAction.cpp.o
+[ 41%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LookaheadEventInfo.cpp.o
+[ 41%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/LoopEndState.cpp.o
+[ 41%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/NotSetTransition.cpp.o
+[ 42%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/OrderedATNConfigSet.cpp.o
+[ 42%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ParseInfo.cpp.o
+[ 43%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ParserATNSimulator.cpp.o
+[ 43%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PlusBlockStartState.cpp.o
+[ 43%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PlusLoopbackState.cpp.o
+[ 44%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PrecedencePredicateTransition.cpp.o
+[ 44%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNConfigSet.cpp.o
+[ 44%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PredicateEvalInfo.cpp.o
+[ 44%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNDeserializationOptions.cpp.o
+[ 44%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PredicateTransition.cpp.o
+[ 45%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionContext.cpp.o
+[ 45%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/PredictionMode.cpp.o
+[ 46%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/ProfilingATNSimulator.cpp.o
+[ 46%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/RangeTransition.cpp.o
+[ 47%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNDeserializer.cpp.o
+[ 47%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/RuleStartState.cpp.o
+[ 47%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNSerializer.cpp.o
+[ 48%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/RuleStopState.cpp.o
+[ 48%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/RuleTransition.cpp.o
+[ 48%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/SemanticContext.cpp.o
+[ 49%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/SetTransition.cpp.o
+[ 49%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/SingletonPredictionContext.cpp.o
+[ 50%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/StarBlockStartState.cpp.o
+[ 50%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/StarLoopEntryState.cpp.o
+[ 50%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/StarLoopbackState.cpp.o
+[ 51%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNSimulator.cpp.o
+[ 51%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ATNState.cpp.o
+[ 52%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/TokensStartState.cpp.o
+[ 52%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/Transition.cpp.o
+[ 52%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/atn/WildcardTransition.cpp.o
+[ 52%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/AbstractPredicateTransition.cpp.o
+[ 53%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFA.cpp.o
+[ 53%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFASerializer.cpp.o
+[ 54%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/dfa/DFAState.cpp.o
+[ 55%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ActionTransition.cpp.o
+[ 55%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/dfa/LexerDFASerializer.cpp.o
+[ 55%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/AmbiguityInfo.cpp.o
+[ 55%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/misc/Interval.cpp.o
+[ 55%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ArrayPredictionContext.cpp.o
+[ 56%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/AtomTransition.cpp.o
+[ 57%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/misc/IntervalSet.cpp.o
+[ 57%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/misc/MurmurHash.cpp.o
+[ 57%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/BasicBlockStartState.cpp.o
+[ 57%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/support/Arrays.cpp.o
+[ 58%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/support/CPPUtils.cpp.o
+[ 59%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/BasicState.cpp.o
+[ 59%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/BlockEndState.cpp.o
+[ 59%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ContextSensitivityInfo.cpp.o
+[ 59%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/support/StringUtils.cpp.o
+[ 60%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionEventInfo.cpp.o
+[ 61%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/support/guid.cpp.o
+[ 61%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionInfo.cpp.o
+[ 61%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/DecisionState.cpp.o
+[ 61%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/ErrorNodeImpl.cpp.o
+[ 62%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/EmptyPredictionContext.cpp.o
+[ 62%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/EpsilonTransition.cpp.o
+[ 63%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ErrorInfo.cpp.o
+[ 63%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/IterativeParseTreeWalker.cpp.o
+[ 64%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTree.cpp.o
+[ 64%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LL1Analyzer.cpp.o
+[ 64%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerATNConfig.cpp.o
+[ 64%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/ParseTreeWalker.cpp.o
+[ 65%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerATNSimulator.cpp.o
+[ 65%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerActionExecutor.cpp.o
+[ 65%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/TerminalNodeImpl.cpp.o
+[ 65%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerChannelAction.cpp.o
+[ 66%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/Trees.cpp.o
+[ 66%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreeMatch.cpp.o
+[ 67%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerCustomAction.cpp.o
+[ 68%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreePattern.cpp.o
+[ 68%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerIndexedCustomAction.cpp.o
+[ 69%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerModeAction.cpp.o
+[ 69%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerMoreAction.cpp.o
+[ 69%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/ParseTreePatternMatcher.cpp.o
+[ 69%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/RuleTagToken.cpp.o
+[ 69%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerPopModeAction.cpp.o
+[ 70%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerPushModeAction.cpp.o
+[ 71%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TagChunk.cpp.o
+[ 71%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerSkipAction.cpp.o
+[ 71%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LexerTypeAction.cpp.o
+[ 72%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LookaheadEventInfo.cpp.o
+[ 72%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/LoopEndState.cpp.o
+[ 72%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TextChunk.cpp.o
+[ 72%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/NotSetTransition.cpp.o
+[ 73%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/OrderedATNConfigSet.cpp.o
+[ 73%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/pattern/TokenTagToken.cpp.o
+[ 73%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ParseInfo.cpp.o
+[ 74%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ParserATNSimulator.cpp.o
+[ 74%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PlusBlockStartState.cpp.o
+[ 74%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PlusLoopbackState.cpp.o
+[ 75%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPath.cpp.o
+[ 75%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathElement.cpp.o
+[ 76%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PrecedencePredicateTransition.cpp.o
+[ 77%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathLexer.cpp.o
+[ 77%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredicateEvalInfo.cpp.o
+[ 77%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredicateTransition.cpp.o
+[ 78%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionContext.cpp.o
+[ 78%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathLexerErrorListener.cpp.o
+[ 78%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/PredictionMode.cpp.o
+[ 79%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/ProfilingATNSimulator.cpp.o
+[ 79%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/RangeTransition.cpp.o
+[ 79%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathRuleAnywhereElement.cpp.o
+[ 80%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathRuleElement.cpp.o
+[ 80%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathTokenAnywhereElement.cpp.o
+[ 80%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/RuleStartState.cpp.o
+[ 81%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/RuleStopState.cpp.o
+[ 81%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathTokenElement.cpp.o
+[ 81%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/RuleTransition.cpp.o
+[ 82%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o
+[ 82%] Building CXX object runtime/CMakeFiles/antlr4_static.dir/src/tree/xpath/XPathWildcardElement.cpp.o
+[ 82%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/SemanticContext.cpp.o
+[ 83%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/SetTransition.cpp.o
+[ 83%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/SingletonPredictionContext.cpp.o
+[ 84%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/StarBlockStartState.cpp.o
+[ 84%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/StarLoopEntryState.cpp.o
+[ 84%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/StarLoopbackState.cpp.o
+[ 85%] Linking CXX static library /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.a
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+[ 85%] Built target antlr4_static
+[ 86%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/TokensStartState.cpp.o
+[ 86%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/Transition.cpp.o
+[ 86%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/atn/WildcardTransition.cpp.o
+[ 87%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFA.cpp.o
+[ 87%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFASerializer.cpp.o
+[ 88%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/dfa/DFAState.cpp.o
+[ 88%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/dfa/LexerDFASerializer.cpp.o
+[ 88%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/misc/Interval.cpp.o
+[ 89%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/misc/IntervalSet.cpp.o
+[ 89%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/misc/MurmurHash.cpp.o
+[ 89%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/support/Arrays.cpp.o
+[ 90%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/support/CPPUtils.cpp.o
+[ 90%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/support/StringUtils.cpp.o
+[ 91%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/support/guid.cpp.o
+[ 91%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/ErrorNodeImpl.cpp.o
+[ 91%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/IterativeParseTreeWalker.cpp.o
+[ 92%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTree.cpp.o
+[ 92%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/ParseTreeWalker.cpp.o
+[ 92%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/TerminalNodeImpl.cpp.o
+[ 93%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/Trees.cpp.o
+[ 93%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreeMatch.cpp.o
+[ 94%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreePattern.cpp.o
+[ 94%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/ParseTreePatternMatcher.cpp.o
+[ 94%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/RuleTagToken.cpp.o
+[ 95%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TagChunk.cpp.o
+[ 95%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TextChunk.cpp.o
+[ 95%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/pattern/TokenTagToken.cpp.o
+[ 96%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPath.cpp.o
+[ 96%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathElement.cpp.o
+[ 97%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathLexer.cpp.o
+[ 97%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathLexerErrorListener.cpp.o
+[ 97%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathRuleAnywhereElement.cpp.o
+[ 98%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathRuleElement.cpp.o
+[ 98%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathTokenAnywhereElement.cpp.o
+[ 98%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathTokenElement.cpp.o
+[ 99%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o
+[ 99%] Building CXX object runtime/CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardElement.cpp.o
+[100%] Linking CXX shared library /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.so
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+[100%] Built target antlr4_shared
+make[4]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[3]: Leaving directory '/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build'

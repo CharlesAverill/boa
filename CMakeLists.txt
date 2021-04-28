@@ -17,12 +17,14 @@ include( ExternalAntlr4Cpp )
 # add antrl4cpp artifacts to project environment
 include_directories( ${ANTLR4CPP_INCLUDE_DIRS} )
 link_directories( ${ANTLR4CPP_LIBS} )
+message(STATUS "Found antlr4cpp libs: ${ANTLR4CPP_LIBS} and includes: ${ANTLR4CPP_INCLUDE_DIRS} ")
 
 project(boa)
 
 
 # include generated files in project environment
 include_directories(${CMAKE_SOURCE_DIR})
+include_directories(${antlr4cpp_include_dirs_antlrcpptest})
 
 # add generated grammar to demo binary target
 add_executable(${CMAKE_PROJECT_NAME} src/main.cpp)

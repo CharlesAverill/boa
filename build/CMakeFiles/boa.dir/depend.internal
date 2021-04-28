@@ -8,7 +8,7 @@ CMakeFiles/boa.dir/src/main.cpp.o
  ..//grammar/Python3Parser.h
  ../grammar/Python3Listener.h
  ../grammar/Python3Parser.h
- /home/charlesaverill/CLionProjects/boa-new/src/main.cpp
+ /home/charlesaverill/CLionProjects/boa/src/main.cpp
  locals/antlr4cpp/include/antlr4-runtime/ANTLRErrorListener.h
  locals/antlr4cpp/include/antlr4-runtime/ANTLRErrorStrategy.h
  locals/antlr4cpp/include/antlr4-runtime/ANTLRFileStream.h

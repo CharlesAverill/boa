@@ -3,12 +3,12 @@
 
 cmake_minimum_required(VERSION 3.5)
 
-if("/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip" STREQUAL "")
+if("/home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip" STREQUAL "")
   message(FATAL_ERROR "LOCAL can't be empty")
 endif()
 
-if(NOT EXISTS "/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip")
-  message(FATAL_ERROR "File not found: /home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip")
+if(NOT EXISTS "/home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip")
+  message(FATAL_ERROR "File not found: /home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip")
 endif()
 
 if("" STREQUAL "")
@@ -21,13 +21,13 @@ if("" STREQUAL "")
 endif()
 
 message(STATUS "verifying file...
-     file='/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip'")
+     file='/home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip'")
 
-file("" "/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip" actual_value)
+file("" "/home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip" actual_value)
 
 if(NOT "${actual_value}" STREQUAL "")
   message(FATAL_ERROR "error:  hash of
-  /home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip
+  /home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip
 does not match expected value
   expected: ''
     actual: '${actual_value}'

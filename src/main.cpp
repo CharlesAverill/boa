@@ -13,17 +13,14 @@ int interpreterLoop(const string& filename) {
     ifstream pythonFile(filename, ios::binary);
 
     if(pythonFile.is_open()){
-        //ANTLRInputStream input;
         /*
-        input.load(pythonFile);
+        ANTLRInputStream input(pythonFile);
         Python3Lexer lexer(&input);
         CommonTokenStream tokens(&lexer);
         Python3Parser parser(&tokens);
-        */
+         */
 
         cout << "Hello" << endl;
-
-        //Python3Lexer lexer(input);
     } else {
         cerr << "Couldn't open file " << filename << endl;
         return 1;

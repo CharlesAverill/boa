@@ -132,9 +132,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathTokenElement.cpp.o"
   "CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardAnywhereElement.cpp.o"
   "CMakeFiles/antlr4_shared.dir/src/tree/xpath/XPathWildcardElement.cpp.o"
-  "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.pdb"
-  "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.so.4.7"
-  "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.so"
+  "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.pdb"
+  "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.so.4.7"
+  "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist/libantlr4-runtime.so"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,0 +1,194 @@
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/DefaultErrorStrategy.cpp:8:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/FailedPredicateException.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/DefaultErrorStrategy.cpp:8:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/FailedPredicateException.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:13:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/ParserInterpreter.cpp:9:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp: In member function ‘virtual bool antlr4::Parser::isExpectedToken(size_t)’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:482:47: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  482 |     following = atn.nextTokens(rt->followState);
+      |                                               ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNSimulator.h:9,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:13:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:13:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp: In member function ‘virtual bool antlr4::Parser::isExpectedToken(size_t)’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:482:47: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  482 |     following = atn.nextTokens(rt->followState);
+      |                                               ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNSimulator.h:9,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/Parser.cpp:13:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp: In member function ‘virtual antlr4::misc::IntervalSet& antlr4::atn::ATN::nextTokens(antlr4::atn::ATNState*) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:92:51: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+   92 |     s->nextTokenWithinRule = nextTokens(s, nullptr);
+      |                                                   ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionContext.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp: In member function ‘virtual antlr4::misc::IntervalSet antlr4::atn::ATN::getExpectedTokens(size_t, antlr4::RuleContext*) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:147:43: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  147 |     following = nextTokens(rt->followState);
+      |                                           ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionContext.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/ParserInterpreter.cpp:9:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp: In member function ‘virtual void antlr4::atn::LL1Analyzer::_LOOK(antlr4::atn::ATNState*, antlr4::atn::ATNState*, Ref<antlr4::atn::PredictionContext>&, antlr4::misc::IntervalSet&, antlr4::atn::ATNConfig::Set&, antlrcpp::BitSet&, bool, bool) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp:149:109: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  149 |           set = set.complement(misc::IntervalSet::of(Token::MIN_USER_TOKEN_TYPE, (ssize_t)_atn.maxTokenType));
+      |                                                                                                             ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/RuleStopState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp: In member function ‘virtual antlr4::misc::IntervalSet& antlr4::atn::ATN::nextTokens(antlr4::atn::ATNState*) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:92:51: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+   92 |     s->nextTokenWithinRule = nextTokens(s, nullptr);
+      |                                                   ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionContext.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp: In member function ‘virtual antlr4::misc::IntervalSet antlr4::atn::ATN::getExpectedTokens(size_t, antlr4::RuleContext*) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:147:43: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  147 |     following = nextTokens(rt->followState);
+      |                                           ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionContext.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.h:10,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATN.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParseInfo.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.cpp:35:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.cpp:12:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.cpp:12:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp: In member function ‘virtual void antlr4::atn::LL1Analyzer::_LOOK(antlr4::atn::ATNState*, antlr4::atn::ATNState*, Ref<antlr4::atn::PredictionContext>&, antlr4::misc::IntervalSet&, antlr4::atn::ATNConfig::Set&, antlrcpp::BitSet&, bool, bool) const’:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp:149:109: warning: implicitly-declared ‘antlr4::misc::IntervalSet& antlr4::misc::IntervalSet::operator=(const antlr4::misc::IntervalSet&)’ is deprecated [-Wdeprecated-copy]
+  149 |           set = set.complement(misc::IntervalSet::of(Token::MIN_USER_TOKEN_TYPE, (ssize_t)_atn.maxTokenType));
+      |                                                                                                             ^
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ATNState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/RuleStopState.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/LL1Analyzer.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/misc/IntervalSet.h:38:5: note: because ‘antlr4::misc::IntervalSet’ has user-provided ‘antlr4::misc::IntervalSet::IntervalSet(const antlr4::misc::IntervalSet&)’
+   38 |     IntervalSet(const IntervalSet &set);
+      |     ^~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParseInfo.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.cpp:35:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/antlr4-runtime.h:100,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.h:4,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPath.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/antlr4-runtime.h:100,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.h:4,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.cpp:1:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.cpp:12:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ProfilingATNSimulator.cpp:12:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/antlr4-runtime.h:100,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.h:4,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPath.cpp:6:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~
+In file included from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/ParserATNSimulator.h:8,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/antlr4-runtime.h:100,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.h:4,
+                 from /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/tree/xpath/XPathLexer.cpp:1:
+/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime/src/atn/PredictionMode.h:18:31: warning: type attributes ignored after type is already defined [-Wattributes]
+   18 |   enum class ANTLR4CPP_PUBLIC PredictionMode {
+      |                               ^~~~~~~~~~~~~~

@@ -48,10 +48,10 @@ RM = /home/charlesaverill/anaconda3/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa-new
+CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa-new/build
+CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles /home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa/build/CMakeFiles /home/charlesaverill/CLionProjects/boa/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa-new/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

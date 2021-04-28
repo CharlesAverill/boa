@@ -1,11 +1,11 @@
 
 cmake_minimum_required(VERSION 3.13)
 
-set(command "/home/charlesaverill/anaconda3/bin/cmake;-Dmake=${make};-Dconfig=${config};-P;/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download--impl.cmake")
+set(command "/home/charlesaverill/anaconda3/bin/cmake;-Dmake=${make};-Dconfig=${config};-P;/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download--impl.cmake")
 set(log_merged "")
 set(log_output_on_failure "")
-set(stdout_log "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-out.log")
-set(stderr_log "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-err.log")
+set(stdout_log "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-out.log")
+set(stderr_log "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-err.log")
 execute_process(
   COMMAND ${command}
   RESULT_VARIABLE result
@@ -31,7 +31,7 @@ if(result)
   if (${log_merged})
     set(msg "${msg}\nSee also\n  ${stderr_log}")
   else()
-    set(msg "${msg}\nSee also\n  /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-*.log")
+    set(msg "${msg}\nSee also\n  /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-*.log")
   endif()
   if (${log_output_on_failure})
     message(SEND_ERROR "${msg}")
@@ -49,6 +49,6 @@ if(result)
     message(FATAL_ERROR "${msg}")
   endif()
 else()
-  set(msg "antlr4cpp download command succeeded.  See also /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-*.log")
+  set(msg "antlr4cpp download command succeeded.  See also /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download-*.log")
   message(STATUS "${msg}")
 endif()

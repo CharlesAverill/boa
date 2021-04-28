@@ -1,4 +1,4 @@
-set(command "/home/charlesaverill/anaconda3/bin/cmake;-P;/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/verify-antlr4cpp.cmake")
+set(command "/home/charlesaverill/anaconda3/bin/cmake;-P;/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/verify-antlr4cpp.cmake")
 
 execute_process(COMMAND ${command} RESULT_VARIABLE result)
 if(result)
@@ -8,7 +8,7 @@ if(result)
   endforeach()
   message(FATAL_ERROR "${msg}")
 endif()
-set(command "/home/charlesaverill/anaconda3/bin/cmake;-P;/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-stamp/extract-antlr4cpp.cmake")
+set(command "/home/charlesaverill/anaconda3/bin/cmake;-P;/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-stamp/extract-antlr4cpp.cmake")
 
 execute_process(COMMAND ${command} RESULT_VARIABLE result)
 if(result)

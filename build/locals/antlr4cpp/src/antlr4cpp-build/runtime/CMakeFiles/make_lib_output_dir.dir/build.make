@@ -43,10 +43,10 @@ RM = /home/charlesaverill/anaconda3/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp
+CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build
+CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build
 
 # Utility rule file for make_lib_output_dir.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr
 include runtime/CMakeFiles/make_lib_output_dir.dir/progress.make
 
 runtime/CMakeFiles/make_lib_output_dir:
-	cd /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/runtime && /home/charlesaverill/anaconda3/bin/cmake -E make_directory /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist
+	cd /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/runtime && /home/charlesaverill/anaconda3/bin/cmake -E make_directory /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/dist
 
 make_lib_output_dir: runtime/CMakeFiles/make_lib_output_dir
 make_lib_output_dir: runtime/CMakeFiles/make_lib_output_dir.dir/build.make
@@ -67,10 +67,10 @@ runtime/CMakeFiles/make_lib_output_dir.dir/build: make_lib_output_dir
 .PHONY : runtime/CMakeFiles/make_lib_output_dir.dir/build
 
 runtime/CMakeFiles/make_lib_output_dir.dir/clean:
-	cd /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/runtime && $(CMAKE_COMMAND) -P CMakeFiles/make_lib_output_dir.dir/cmake_clean.cmake
+	cd /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/runtime && $(CMAKE_COMMAND) -P CMakeFiles/make_lib_output_dir.dir/cmake_clean.cmake
 .PHONY : runtime/CMakeFiles/make_lib_output_dir.dir/clean
 
 runtime/CMakeFiles/make_lib_output_dir.dir/depend:
-	cd /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/runtime /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/runtime/CMakeFiles/make_lib_output_dir.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp/runtime /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/runtime /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/runtime/CMakeFiles/make_lib_output_dir.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : runtime/CMakeFiles/make_lib_output_dir.dir/depend
 

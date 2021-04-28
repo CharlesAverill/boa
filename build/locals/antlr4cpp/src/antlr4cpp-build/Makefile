@@ -48,10 +48,10 @@ RM = /home/charlesaverill/anaconda3/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp
+CMAKE_SOURCE_DIR = /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp/runtime/Cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build
+CMAKE_BINARY_DIR = /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp-build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

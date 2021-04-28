@@ -1,7 +1,7 @@
 # Make file names absolute:
 #
-get_filename_component(filename "/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip" ABSOLUTE)
-get_filename_component(directory "/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp" ABSOLUTE)
+get_filename_component(filename "/home/charlesaverill/CLionProjects/boa/lib/antlr4-master.zip" ABSOLUTE)
+get_filename_component(directory "/home/charlesaverill/CLionProjects/boa/build/locals/antlr4cpp/src/antlr4cpp" ABSOLUTE)
 
 message(STATUS "extracting...
      src='${filename}'
