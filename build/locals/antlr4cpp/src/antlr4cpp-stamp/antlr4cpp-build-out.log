@@ -1,0 +1,15 @@
+make[3]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[4]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+[  0%] Built target make_lib_output_dir
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Entering directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[5]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+[ 73%] Built target antlr4_shared
+[100%] Built target antlr4_static
+make[4]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'
+make[3]: Leaving directory '/home/charlesaverill/CLionProjects/boa-new/build/locals/antlr4cpp/src/antlr4cpp-build'

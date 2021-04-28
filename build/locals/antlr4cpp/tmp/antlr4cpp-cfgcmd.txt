@@ -1,0 +1,1 @@
+cmd='/home/charlesaverill/anaconda3/bin/cmake;-DCMAKE_BUILD_TYPE=Release;-DANTLR4CPP_JAR_LOCATION=/home/charlesaverill/CLionProjects/boa-new/lib/antlr4-4.5.4-SNAPSHOT.jar;-DBUILD_SHARED_LIBS=ON;-DBUILD_TESTS=OFF;-DCMAKE_INSTALL_PREFIX:PATH=<INSTALL_DIR>;-DCMAKE_SOURCE_DIR:PATH=<SOURCE_DIR>/runtime/Cpp;<SOURCE_DIR>/runtime/Cpp'

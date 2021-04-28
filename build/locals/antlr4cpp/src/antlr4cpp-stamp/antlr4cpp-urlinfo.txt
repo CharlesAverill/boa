@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/charlesaverill/CLionProjects/boa-new/thirdparty/antlr/antlr4-master.zip'
+tag=''

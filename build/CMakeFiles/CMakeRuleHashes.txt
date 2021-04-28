@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+d88b56a2df8217fe6ea2d5ce18b9eaed CMakeFiles/antlr4cpp
+77c49dddbf28170b32508cb24b80c503 CMakeFiles/antlr4cpp-complete
+860886b543a77eb316bff7b402d2dc78 locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build
+b694e011c076be85caf2a42c36d2bf97 locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure
+2f8d6920f6537e0cf3852cf62f2bd77d locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download
+84178b20fa79fc35d1f14f749d53837b locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install
+f0d7f16229ce3ac462e69c2ab429502a locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir
+da7603e9ea4069cc3592b5c328fbd566 locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch
+93662200f8a56e7910db2f458ab0344f locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-update
